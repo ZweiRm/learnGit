@@ -2,4 +2,3 @@ TEST
 add new
 Creating a new branch is quick and simple.
 new line is a new line
-but

@@ -2,3 +2,7 @@ TEST
 add new
 Creating a new branch is quick and simple.
 new line is a new line
+new line
+another new line but not finish
+create the 6th line, this line is about fucking saying
+for git, this is a very good tools to manage version controll
